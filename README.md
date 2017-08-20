@@ -1,2 +1,2 @@
 # SpaceOliveApp
-Android app with Phonegap
+Android app
